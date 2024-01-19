@@ -1,1 +1,3 @@
-the first file made in the demo repository 
+the first file made in the demo repository:
+
+this is a demo on creating a local repository on the git bash and creating new files in it after that adding them in git bash cmd so as to be tracked by the git bash( git will track any modification made to these files ) after that make a commit to submit the changes made in the staging area to the local repository , then go ahead and open github and create a remote repository ( of the same name of the local repository ( to be able to reopen it from your git bash if you needed to add more code later on )(all you have to do to open the repository is typing cd the repository name note that we named the local and the remote repository with the same name for this case ) 
